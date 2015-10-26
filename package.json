@@ -1,10 +1,10 @@
 {
   "name": "passport-saml",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/bergie/passport-saml/raw/master/LICENSE"
+      "url": "https://github.com/ILUMY/passport-saml/raw/master/LICENSE"
     }
   ],
   "keywords": [
